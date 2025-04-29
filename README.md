@@ -14,4 +14,6 @@ Repository contains tasks solved and attempted by me.
 
 ## Task 2: Performance and Parallelism
 
-Part 1: Introducing the time command: Part 2: Benchmarking with time Part 3: Benchmarking Internally Part 4: Modify the code
+Part 1: Introducing the time command
+- Ran the time 1s command and got the expected output
+Part 2: Benchmarking with time Part 3: Benchmarking Internally Part 4: Modify the code
