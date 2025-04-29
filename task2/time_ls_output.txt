@@ -1,5 +1,1 @@
-cloned_repo
-README.md
-task1.txt
-task2
-week1
+time_ls_output.txt
