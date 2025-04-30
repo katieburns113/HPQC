@@ -1,0 +1,5 @@
+No protocol specified
+Hello from process 0 of 4
+Hello from process 1 of 4
+Hello from process 2 of 4
+Hello from process 3 of 4
