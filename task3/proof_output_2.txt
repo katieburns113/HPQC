@@ -1,0 +1,2 @@
+No protocol specified
+The combined result is 8
