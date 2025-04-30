@@ -1,0 +1,8 @@
+  File "/home/ug/burnsk6/PHY1090/week2/repeat_adder.py", line 6
+    try:
+       ^
+TabError: inconsistent use of tabs and spaces in indentation
+Command exited with non-zero status 1
+real 0.44
+user 0.18
+sys 0.02
